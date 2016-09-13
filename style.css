@@ -1,0 +1,16 @@
+.left-nav {
+    position: fixed;
+    display: inline-block;
+    left: 0px;
+    top: 0px;
+    background: #fff;
+    height: 100%;
+    width: 380px;
+    z-index: 1000;
+    border-right: 1px solid #DDDDDD;
+    text-align: center;
+}
+
+nav {
+    margin-bottom: 30px;
+}
